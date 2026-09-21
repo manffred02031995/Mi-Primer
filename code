@@ -1,0 +1,15 @@
+# Mi Proyecto
+
+Descripción breve de mi proyecto.
+
+## Características
+- Funcionalidad 1
+- Funcionalidad 2
+- Funcionalidad 3
+
+## Instalación
+Instrucciones para instalar el proyecto:
+
+```bash
+git clone https://github.com/usuario/miproyecto.git
+cd miproyecto
